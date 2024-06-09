@@ -5,7 +5,7 @@ import (
 
 	"golang.org/x/xerrors"
 
-	"github.com/WebEngrChild/go-graphql-server/pkg/lib/config"
+	"github.com/hirosi1900day/go-graphql-server/pkg/lib/config"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )

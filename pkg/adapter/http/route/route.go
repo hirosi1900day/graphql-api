@@ -9,10 +9,10 @@ import (
 
 	"golang.org/x/xerrors"
 
-	"github.com/WebEngrChild/go-graphql-server/pkg/adapter/http/handler"
-	authMiddleware "github.com/WebEngrChild/go-graphql-server/pkg/adapter/http/middleware"
-	"github.com/WebEngrChild/go-graphql-server/pkg/lib/config"
-	"github.com/WebEngrChild/go-graphql-server/pkg/lib/validator"
+	"github.com/hirosi1900day/go-graphql-server/pkg/adapter/http/handler"
+	authMiddleware "github.com/hirosi1900day/go-graphql-server/pkg/adapter/http/middleware"
+	"github.com/hirosi1900day/go-graphql-server/pkg/lib/config"
+	"github.com/hirosi1900day/go-graphql-server/pkg/lib/validator"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 )

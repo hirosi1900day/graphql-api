@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/WebEngrChild/go-graphql-server/pkg/domain/model"
-	"github.com/WebEngrChild/go-graphql-server/pkg/domain/repository"
+	"github.com/hirosi1900day/go-graphql-server/pkg/domain/model"
+	"github.com/hirosi1900day/go-graphql-server/pkg/domain/repository"
 )
 
 type Message interface {

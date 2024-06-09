@@ -3,7 +3,7 @@ package sentry
 import (
 	"strings"
 
-	"github.com/WebEngrChild/go-graphql-server/pkg/lib/config"
+	"github.com/hirosi1900day/go-graphql-server/pkg/lib/config"
 	"github.com/getsentry/sentry-go"
 	"golang.org/x/xerrors"
 )

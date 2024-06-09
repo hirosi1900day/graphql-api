@@ -3,8 +3,8 @@ package infra
 import (
 	"golang.org/x/xerrors"
 
-	"github.com/WebEngrChild/go-graphql-server/pkg/domain/model"
-	"github.com/WebEngrChild/go-graphql-server/pkg/domain/repository"
+	"github.com/hirosi1900day/go-graphql-server/pkg/domain/model"
+	"github.com/hirosi1900day/go-graphql-server/pkg/domain/repository"
 	"gorm.io/gorm"
 )
 

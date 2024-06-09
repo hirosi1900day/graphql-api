@@ -7,13 +7,13 @@ import (
 	"github.com/getsentry/sentry-go"
 
 	"github.com/99designs/gqlgen/graphql/playground"
-	"github.com/WebEngrChild/go-graphql-server/pkg/adapter/http/handler"
-	authMiddleware "github.com/WebEngrChild/go-graphql-server/pkg/adapter/http/middleware"
-	"github.com/WebEngrChild/go-graphql-server/pkg/adapter/http/route"
-	"github.com/WebEngrChild/go-graphql-server/pkg/infra"
-	"github.com/WebEngrChild/go-graphql-server/pkg/lib/config"
-	initSentry "github.com/WebEngrChild/go-graphql-server/pkg/lib/sentry"
-	"github.com/WebEngrChild/go-graphql-server/pkg/usecase"
+	"github.com/hirosi1900day/go-graphql-server/pkg/adapter/http/handler"
+	authMiddleware "github.com/hirosi1900day/go-graphql-server/pkg/adapter/http/middleware"
+	"github.com/hirosi1900day/go-graphql-server/pkg/adapter/http/route"
+	"github.com/hirosi1900day/go-graphql-server/pkg/infra"
+	"github.com/hirosi1900day/go-graphql-server/pkg/lib/config"
+	initSentry "github.com/hirosi1900day/go-graphql-server/pkg/lib/sentry"
+	"github.com/hirosi1900day/go-graphql-server/pkg/usecase"
 )
 
 func main() {

@@ -9,9 +9,9 @@ import (
 	"fmt"
 	"github.com/getsentry/sentry-go"
 
-	"github.com/WebEngrChild/go-graphql-server/pkg/domain/model"
-	"github.com/WebEngrChild/go-graphql-server/pkg/domain/model/graph"
-	"github.com/WebEngrChild/go-graphql-server/pkg/lib/graph/generated"
+	"github.com/hirosi1900day/go-graphql-server/pkg/domain/model"
+	"github.com/hirosi1900day/go-graphql-server/pkg/domain/model/graph"
+	"github.com/hirosi1900day/go-graphql-server/pkg/lib/graph/generated"
 )
 
 // User is the resolver for the user field.

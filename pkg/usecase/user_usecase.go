@@ -10,9 +10,9 @@ import (
 
 	"golang.org/x/xerrors"
 
-	"github.com/WebEngrChild/go-graphql-server/pkg/domain/model/graph"
-	"github.com/WebEngrChild/go-graphql-server/pkg/domain/repository"
-	"github.com/WebEngrChild/go-graphql-server/pkg/lib/graph/loader"
+	"github.com/hirosi1900day/go-graphql-server/pkg/domain/model/graph"
+	"github.com/hirosi1900day/go-graphql-server/pkg/domain/repository"
+	"github.com/hirosi1900day/go-graphql-server/pkg/lib/graph/loader"
 	"github.com/graph-gophers/dataloader"
 )
 

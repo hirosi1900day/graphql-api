@@ -1,4 +1,4 @@
-module github.com/WebEngrChild/go-graphql-server
+module github.com/hirosi1900day/go-graphql-server
 
 go 1.19
 

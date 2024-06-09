@@ -6,7 +6,7 @@ import (
 
 	"golang.org/x/xerrors"
 
-	"github.com/WebEngrChild/go-graphql-server/pkg/usecase"
+	"github.com/hirosi1900day/go-graphql-server/pkg/usecase"
 	"github.com/labstack/echo/v4"
 )
 

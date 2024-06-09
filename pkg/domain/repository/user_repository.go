@@ -3,7 +3,7 @@ package repository
 import (
 	"context"
 
-	"github.com/WebEngrChild/go-graphql-server/pkg/domain/model/graph"
+	"github.com/hirosi1900day/go-graphql-server/pkg/domain/model/graph"
 )
 
 type User interface {

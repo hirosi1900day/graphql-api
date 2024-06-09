@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"github.com/getsentry/sentry-go"
 
-	"github.com/WebEngrChild/go-graphql-server/pkg/domain/model"
-	"github.com/WebEngrChild/go-graphql-server/pkg/lib/graph/generated"
+	"github.com/hirosi1900day/go-graphql-server/pkg/domain/model"
+	"github.com/hirosi1900day/go-graphql-server/pkg/lib/graph/generated"
 )
 
 // GetMessages is the resolver for the getMessages field.

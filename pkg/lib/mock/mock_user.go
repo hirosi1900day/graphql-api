@@ -8,7 +8,7 @@ import (
 	context "context"
 	reflect "reflect"
 
-	graph "github.com/WebEngrChild/go-graphql-server/pkg/domain/model/graph"
+	graph "github.com/hirosi1900day/go-graphql-server/pkg/domain/model/graph"
 	gomock "github.com/golang/mock/gomock"
 )
 

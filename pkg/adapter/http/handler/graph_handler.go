@@ -2,10 +2,10 @@ package handler
 
 import (
 	"github.com/99designs/gqlgen/graphql/handler"
-	"github.com/WebEngrChild/go-graphql-server/pkg/adapter/http/resolver"
-	"github.com/WebEngrChild/go-graphql-server/pkg/lib/graph/generated"
-	"github.com/WebEngrChild/go-graphql-server/pkg/lib/graph/loader"
-	"github.com/WebEngrChild/go-graphql-server/pkg/usecase"
+	"github.com/hirosi1900day/go-graphql-server/pkg/adapter/http/resolver"
+	"github.com/hirosi1900day/go-graphql-server/pkg/lib/graph/generated"
+	"github.com/hirosi1900day/go-graphql-server/pkg/lib/graph/loader"
+	"github.com/hirosi1900day/go-graphql-server/pkg/usecase"
 	"github.com/graph-gophers/dataloader"
 	"github.com/labstack/echo/v4"
 )

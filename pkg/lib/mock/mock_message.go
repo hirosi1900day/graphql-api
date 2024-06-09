@@ -7,7 +7,7 @@ package mock_repository
 import (
 	reflect "reflect"
 
-	model "github.com/WebEngrChild/go-graphql-server/pkg/domain/model"
+	model "github.com/hirosi1900day/go-graphql-server/pkg/domain/model"
 	gomock "github.com/golang/mock/gomock"
 )
 

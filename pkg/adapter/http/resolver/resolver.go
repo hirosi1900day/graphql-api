@@ -3,7 +3,7 @@ package resolver
 //go:generate go run github.com/99designs/gqlgen generate
 
 import (
-	"github.com/WebEngrChild/go-graphql-server/pkg/usecase"
+	"github.com/hirosi1900day/go-graphql-server/pkg/usecase"
 )
 
 // This file will not be regenerated automatically.

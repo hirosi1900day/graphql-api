@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"github.com/WebEngrChild/go-graphql-server/pkg/domain/model"
+	"github.com/hirosi1900day/go-graphql-server/pkg/domain/model"
 )
 
 type Message interface {
